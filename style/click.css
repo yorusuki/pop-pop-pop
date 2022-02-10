@@ -30,10 +30,9 @@
 }
 
 img {
-    -webkit-user-select: none;
     -moz-user-select: none;
     pointer-events: none;
-    height: 60vh;
+    height: 55vh;
     margin: 15px;
 }
 
