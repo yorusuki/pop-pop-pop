@@ -3,6 +3,6 @@ let cardData = [
     {
         "name": "一姬",
         "filename": "ichi",
-        "startTime": 0.15
+        "startTime": 0.07
     }
 ];
