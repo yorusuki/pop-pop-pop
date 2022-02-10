@@ -3,4 +3,7 @@
     src: url("../font/cubic11.ttf");
 }
 
-
+body {
+    margin: 0;
+    padding: 0;
+}
