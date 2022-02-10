@@ -3,6 +3,10 @@ let cardData = [
     {
         "name": "一姬",
         "filename": "ichi",
-        "startTime": 0.07
-    }
+        "startTime": 0.05
+    },
+    {
+        "name": "狸狸兒",
+        "filename": "kitsukitsu",
+    },
 ];

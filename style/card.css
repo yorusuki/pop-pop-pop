@@ -49,7 +49,7 @@
     /*    */
     animation: showImg;
     animation-duration: 2000ms;
-
+    object-fit: contain;
 }
 
 .box {
