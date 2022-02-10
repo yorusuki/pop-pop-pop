@@ -23,7 +23,6 @@
     }
 }
 
-
 .count{
     font-family: cubic11, sans-serif;
     padding: 15px;
@@ -31,7 +30,10 @@
 }
 
 img {
-    height: 50vh;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    pointer-events: none;
+    height: 60vh;
     margin: 15px;
 }
 
